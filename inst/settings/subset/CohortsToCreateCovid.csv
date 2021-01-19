@@ -1,0 +1,16 @@
+name,atlasName,atlasId,cohortId
+flu,Persons with influenza vaccine in 2017-2020 seasons,2146,2146
+covid,Persons with COVID-19,2147,2147
+year_start,"Persons at risk at start of year,2017-2020with >=365d prior observation",1,1
+first_visit,"Persons at first visit in each calendar year,2017-2020,with >=365d prior observation",2,2
+rand_visit,"Persons at random visit in each calendar year,2017-2020,with >=365d prior observation",3,3
+year_start_and_visit,"Persons at risk at start of year,2017-2020with >=365d prior observation and at least 1 visit",4,4
+well_visit,"Persons at first well visit in each calendar year,2017-2020,with >=365d prior observation",5,5
+year_start_and_w_visit,"Persons at risk at start of year in each calendar year,2017-2020,with >=365d prior observation and at least 1 well visit",6,6
+ip_visit,"Persons at first IP/EP visit in each calendar year,2017-2020,with >=365d prior observation",7,7
+year_start_and_ip_visit,"Persons at first visit in each calendar year,2017-2020,with >=365d prior observation with at least 1 IP/EP",8,8
+chr_visit,"Persons at first chronic condition visit in each calendar year,2017-2020,with >=365d prior observation",9,9
+year_start_and_chr_visit,"Persons at first visit in each calendar year,2017-2020,with >=365d prior observation with at least 1 chr cond",10,10
+year_start_and_visit_wo365,"Persons at risk at start of year in each calendar year,2017-2020,with at least 1 visit",11,11
+year_start_first,"Persons at risk at start of year,2017-2020with >=365d prior observation, first occurrence",12,12
+first_visit_first,"Persons at first visit in each calendar year,2017-2020,with >=365d prior observation, first occurrence",13,13
